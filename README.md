@@ -46,7 +46,7 @@ This project uses a dataset from Maven Analytics:
 ---
 
 ## 📸 Dashboard Preview
-
+![Dashboard](Dashboard%20screenshot.png)
 
 ---
 
